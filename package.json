@@ -2,6 +2,7 @@
   "name": "ointerview-node",
   "version": "1.0.0",
   "main": "dist/index.js",
+  "type": "commonjs",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js"
